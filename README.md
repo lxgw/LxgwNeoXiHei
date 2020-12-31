@@ -12,7 +12,13 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 - **《义务教育语文课程常用字表》** 3500 字； *（《通用规范汉字表》一表）*
 - **《GB 2312-80》一级汉字** 3755 字。
 ### 预览
-![rvBXTJ.png](https://s3.ax1x.com/2020/12/31/rvBXTJ.png)
+![rvHyUs.png](https://s3.ax1x.com/2021/01/01/rvHyUs.png)
+![rvHsEj.png](https://s3.ax1x.com/2021/01/01/rvHsEj.png)
+![rvHDbQ.png](https://s3.ax1x.com/2021/01/01/rvHDbQ.png)
+![rvHBDg.png](https://s3.ax1x.com/2021/01/01/rvHBDg.png)
+![rvH0KS.png](https://s3.ax1x.com/2021/01/01/rvH0KS.png)
+![rvH65n.png](https://s3.ax1x.com/2021/01/01/rvH65n.png)
+![rvHgCq.png](https://s3.ax1x.com/2021/01/01/rvHgCq.png)
 
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
