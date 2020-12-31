@@ -17,7 +17,6 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 ![rvHDbQ.png](https://s3.ax1x.com/2021/01/01/rvHDbQ.png)
 ![rvHBDg.png](https://s3.ax1x.com/2021/01/01/rvHBDg.png)
 ![rvH0KS.png](https://s3.ax1x.com/2021/01/01/rvH0KS.png)
-![rvH65n.png](https://s3.ax1x.com/2021/01/01/rvH65n.png)
 ![rvHgCq.png](https://s3.ax1x.com/2021/01/01/rvHgCq.png)
 
 ## 如何下载
