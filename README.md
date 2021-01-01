@@ -23,8 +23,8 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 ![rvHgCq.png](https://s3.ax1x.com/2021/01/01/rvHgCq.png)
 ### 手机显示预览
 *以 Book 字重为例，Android 10，Pixel Experience。*  
-![](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418b9.png)
-![](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418bb.png)
+![5fef2cb13ffa7d37b3e418b9.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418b9.png)
+![5fef2cb13ffa7d37b3e418bb.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418bb.png)
 
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
