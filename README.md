@@ -25,7 +25,8 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 *以 Book 字重为例，Android 10，Pixel Experience。*  
 ![5fef2cb13ffa7d37b3e418b9.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418b9.png)
 ![5fef2cb13ffa7d37b3e418bb.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418bb.png)
-
+### 更新记录
+[点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 
