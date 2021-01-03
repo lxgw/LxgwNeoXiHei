@@ -9,10 +9,13 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 
 ### 字库
 本字库计划补全 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 。  
+目前已有 6287 个简体中文汉字，基本满足日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
 - **《义务教育语文课程常用字表》** 3500 字； *（《通用规范汉字表》一表）*
 - **《GB 2312-80》一级汉字** 3755 字。
+### 更新记录
+[点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ### 概览
 ![rvHyUs.png](https://s3.ax1x.com/2021/01/01/rvHyUs.png)
 ![rvHsEj.png](https://s3.ax1x.com/2021/01/01/rvHsEj.png)
@@ -25,8 +28,7 @@ A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴ�
 *以 Book 字重为例，Android 10，Pixel Experience。*  
 ![5fef2cb13ffa7d37b3e418b9.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418b9.png)
 ![5fef2cb13ffa7d37b3e418bb.png](https://pic.downk.cc/item/5fef2cb13ffa7d37b3e418bb.png)
-### 更新记录
-[点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
+
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 
