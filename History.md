@@ -1,3 +1,8 @@
+## ver 0.2 2021-01-04
+- 继续新增一些汉字。本版所含汉字数：6765 *（GB2312 所有汉字+「啰」「瞭」）*
+- [点击查看本版新增的汉字。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210104_v0.2)
+- 修改「l」使其与「I」区分。
+
 ## ver 0.11 2021-01-03
 - 继续新增一些汉字。本版所含汉字数：6287
 - [点击查看本版新增的汉字。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210103_v0.12)
