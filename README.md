@@ -1,5 +1,5 @@
 # Lxgw New Clear Gothic / 霞鹜新晰黑
-A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
 
 ## 字体简介
