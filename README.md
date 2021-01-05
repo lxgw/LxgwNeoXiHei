@@ -31,6 +31,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
+2. 进入 [猫啃网](https://www.maoken.com/freefonts/8999.html) 下载原版 TTF。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
