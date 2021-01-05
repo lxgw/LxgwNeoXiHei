@@ -1,4 +1,4 @@
-## ver 0.21 2021-01-06
+## ver 0.21 2021-01-05
 - 继续新增一些字符。本版所含汉字数：7320 *（新增一些 GB2312 以外《通用规范汉字表》以内的汉字）*
 - [点击查看本版新增的字符。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210105_v0.21)
 - 修改了下列汉字：凿蔟蔺躏镇琥羌
