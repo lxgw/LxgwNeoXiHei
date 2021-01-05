@@ -46,7 +46,7 @@ IPAフォントライセンスV1.0
 第５条　準拠法
 IPAは、本契約の変更バージョンまたは新しいバージョンを公表することができます。その場合には、受領者は、許諾プログラムまたは派生プログラムの使用、複製その他の利用または再配布にあたり、本契約または変更後の契約のいずれかを選択することができます。その他、上記に記載されていない条項に関しては日本の著作権法および関連法規に従うものとします。
 本契約は、日本法に基づき解釈されます。
-TOP
+
 
 IPA FONT LICENSE AGREEMENT V1.0
 The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”). Any use, reproduction or distribution of the Licensed Program, or any
