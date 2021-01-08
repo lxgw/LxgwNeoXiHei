@@ -1,3 +1,9 @@
+## ver 0.211 2021-01-08
+- 继续新增一些汉字。本版所含汉字数：7637
+- [点击查看本版新增的字符。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210108_v0.211)
+- 修改了下列汉字的字形：窄
+- 修复了「钅」显示成「针」的问题；
+
 ## ver 0.21 2021-01-05
 - 继续新增一些字符。本版所含汉字数：7320 *（新增一些 GB2312 以外《通用规范汉字表》以内的汉字）*
 - [点击查看本版新增的字符。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210105_v0.21)
