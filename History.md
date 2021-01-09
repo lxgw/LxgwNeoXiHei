@@ -1,5 +1,5 @@
 ## ver 0.212 2021-01-09
-- 继续新增一些汉字。本版所含汉字数：7637
+- 继续新增一些汉字。本版所含汉字数：7962
 - [点击查看本版新增的字符。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/Glyphs_txt/Add_glyphs_20210109_v0.212)
 - 修改了下列汉字的字形：的纰
 
