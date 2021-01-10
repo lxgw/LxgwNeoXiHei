@@ -8,11 +8,11 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。
 
 ### 字库
-本字库计划补全 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 。  
-目前已有 6000+ 个简体中文汉字，基本满足日常需要。
+本字库已补全 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 。  
+目前已有 8000+ 个简体中文汉字，基本满足日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
-- **《义务教育语文课程常用字表》** 3500 字； *（《通用规范汉字表》一表）*
+- **《通用规范汉字表》** 8105 字；
 - **《GB 2312-80》所有汉字** 6763 字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
@@ -35,7 +35,6 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
-2. 本字体为测试字体，目前的字库尚不完全，但已达到 GB2312，覆盖常用汉字，已经基本满足一般使用需要，后续将补全通用规范汉字表 8105 个字，并按需添加一些生僻字，请耐心等待。
 
 ## 授权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
