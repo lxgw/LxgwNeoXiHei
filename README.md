@@ -17,12 +17,12 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ### 概览
-![sP4U0S.png](https://s3.ax1x.com/2021/01/04/sP4U0S.png)
-![sP4J6P.png](https://s3.ax1x.com/2021/01/04/sP4J6P.png)
-![sP4Nm8.png](https://s3.ax1x.com/2021/01/04/sP4Nm8.png)
-![sP4YOf.png](https://s3.ax1x.com/2021/01/04/sP4YOf.png)
-![sP4Glt.png](https://s3.ax1x.com/2021/01/04/sP4Glt.png)
-![sP4aTg.png](https://s3.ax1x.com/2021/01/04/sP4aTg.png)
+![sli0Ig.png](https://s3.ax1x.com/2021/01/10/sli0Ig.png)
+![slidZ8.png](https://s3.ax1x.com/2021/01/10/slidZ8.png)
+![sliwdS.png](https://s3.ax1x.com/2021/01/10/sliwdS.png)
+![sliUqf.png](https://s3.ax1x.com/2021/01/10/sliUqf.png)
+![sliNsP.png](https://s3.ax1x.com/2021/01/10/sliNsP.png)
+![sliDiQ.png](https://s3.ax1x.com/2021/01/10/sliDiQ.png)
 ![sP4wkQ.png](https://s3.ax1x.com/2021/01/04/sP4wkQ.png)
 ### 手机显示预览
 *以 Book 字重为例，Android 10，Pixel Experience。*  
