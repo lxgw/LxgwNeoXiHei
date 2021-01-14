@@ -33,7 +33,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/8999.html) 下载原版 TTF。
 
 ## 注意事项
-1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
+1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
+2. 由于本字体专案以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜新晰黑](https://github.com/lxgw/LxgwClearGothic)。
 
 ## 授权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
