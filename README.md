@@ -41,7 +41,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - 本字体基于 [IPA Font License 1.0](https://opensource.org/licenses/IPA/) 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
-  - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA 的规定释出。 *（注：不可与其它开源协议下的字体混合。）*
+  - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA 的规定释出。
   - **请勿将字体文件倒卖兜售。**
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
