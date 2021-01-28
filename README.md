@@ -12,6 +12,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 目前已有 8000+ 个简体中文汉字，基本满足日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
+- **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
 - **《GB 2312-80》所有汉字** 6763 字。
 ### 更新记录
@@ -45,7 +46,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
   - **请勿将字体文件倒卖兜售。**
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
- 
+
 ## 其它项目
 ### 日系字体中文化
 - [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
