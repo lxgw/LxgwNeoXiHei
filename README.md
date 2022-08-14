@@ -1,3 +1,5 @@
+> 本字体计划更名霞鹜昕黑，并将会对字形重新优化。
+
 # LXGW New Clear Gothic / 霞鹜新晰黑
 A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
