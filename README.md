@@ -1,5 +1,4 @@
 ![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNewClearGothic/main/documentation/newxihei2023.png)
-
 ---
 
 # LXGW New Clear Gothic / 霞鹜新晰黑
