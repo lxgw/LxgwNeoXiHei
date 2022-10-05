@@ -1,5 +1,7 @@
 ![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNewClearGothic/main/documentation/newxihei2023.png)
+
 ---
+
 # LXGW New Clear Gothic / 霞鹜新晰黑
 A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
