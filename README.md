@@ -1,4 +1,6 @@
-![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNewClearGothic/main/documentation/newxihei2023.png)
+![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNewClearGothic/main/documentation/newxihei2023.png)  
+「霞鹜新晰黑」字形优化计划正在进行中，预计 2023 年更新。
+
 ---
 
 # LXGW New Clear Gothic / 霞鹜新晰黑
