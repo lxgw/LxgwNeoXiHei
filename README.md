@@ -10,9 +10,9 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 字体简介
 这是一款基于 [IPAex黑体](https://ipafont.ipa.go.jp) 的中文开源字体，是将日本写法的字体改造成简体中文写法的尝试。
 
-本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求；自 v0.900 版本起，对该字体的汉字字形进行间架调整和规范化，精简部分部件的出脚。
+本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求；自 v0.900 版本起，对该字体的汉字字形进行间架调整和规范化，并精简部分部件的「出脚」。
 
-### 字库
+### 字汇
 本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
 目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
 目前已覆盖：
@@ -43,7 +43,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
-2. 由于本字体项目以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
+2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
 3. v0.900 暂时剔除部分表外字，待重新整理后加入至本字体和[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)字体中。
 
 ## 版权信息
