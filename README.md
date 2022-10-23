@@ -29,10 +29,12 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ![sliUqf.png](https://s3.ax1x.com/2021/01/10/sliUqf.png)
 ![sliNsP.png](https://s3.ax1x.com/2021/01/10/sliNsP.png)
 ![sliDiQ.png](https://s3.ax1x.com/2021/01/10/sliDiQ.png)
+<!--
 ### 手机显示预览
 *以 Book 字重为例，Android 10，Pixel Experience。*  
 ![s36WHe.png](https://s3.ax1x.com/2021/01/11/s36WHe.png)
 ![s36hAH.png](https://s3.ax1x.com/2021/01/11/s36hAH.png)
+-->
 
 ## 如何下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
