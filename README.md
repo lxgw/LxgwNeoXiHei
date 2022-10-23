@@ -13,8 +13,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。
 
 ### 字库
-本字库已补全 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 。  
-目前已有 8000+ 个简体中文汉字，基本满足日常需要。
+本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
+目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
@@ -41,7 +41,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
-2. 由于本字体专案以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)。
+2. 由于本字体专案以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
 
 ## 版权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
@@ -54,13 +54,10 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
 
 ## 其它项目
-### 日系字体中文化
-- [霞鹜晰黑 / Lxgw Clear Gothic](https://github.com/lxgw/LxgwClearGothic)
+- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
-### 975 系列
-- [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
-- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
 
 ## 联系作者
 
