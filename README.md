@@ -12,7 +12,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型进一步调整。
 
-另提供**「霞鹜尚智黑」**，在「03スマートフォントUI」的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
+另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
 ### 字汇
 本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
