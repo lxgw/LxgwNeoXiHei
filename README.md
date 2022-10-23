@@ -61,7 +61,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 鸣谢
 - TB Gothic *by Takao Hayashi*
 - [IPAex Gothic](https://ipafont.ipa.go.jp/) *by Information-technology Promotion Agency, Japan (IPA)*
-- [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Fesign*
+- [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Design*
 
 ## 其它项目
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
