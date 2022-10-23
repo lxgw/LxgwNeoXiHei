@@ -15,7 +15,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
 ### 字汇
-本字库包含 GB/T 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
+本字库包含 GB/T 2312-80 及《通用规范汉字表》所收录的汉字。  
 目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
@@ -62,6 +62,10 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - TB Gothic *by Takao Hayashi*
 - [IPAex Gothic](https://ipafont.ipa.go.jp/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Design*
+
+## 相关资料
+- [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
+- [通用规范汉字笔顺标准](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 
 ## 其它项目
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
