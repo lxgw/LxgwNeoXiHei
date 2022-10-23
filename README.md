@@ -47,6 +47,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
 2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
 3. v0.900 暂时剔除部分表外字，待重新整理后加入至本字体和[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)字体中。
+4. **请勿将字体文件单独售卖。**
 
 ## 版权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
@@ -54,9 +55,13 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA 的规定释出。
-  - **请勿将字体文件倒卖兜售。**
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
+
+## 鸣谢
+- TB Gothic *by Takao Hayashi*
+- [IPAex Gothic](https://ipafont.ipa.go.jp/) *by Information-technology Promotion Agency, Japan (IPA)*
+- [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Fesign*
 
 ## 其它项目
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
