@@ -19,7 +19,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
-- **《GB 2312-80》**除「麴」外的所有汉字 6762 字。
+- **《GB 2312-80》** 除「麴」外的所有汉字 6762 字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ### 概览
@@ -37,13 +37,13 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 -->
 
 ## 如何下载
-1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
+1. 进入 [Releases](https://github.com/lxgw/LxgwNewClearGothic/releases) 页面下载。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/8999.html) 下载原版 TTF。
 3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
-2. 由于本字体专案以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
+2. 由于本字体项目以简体为主，所以没有繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
 
 ## 版权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
