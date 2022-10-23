@@ -15,13 +15,13 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
 ### 字汇
-本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
+本字库包含 GB/T 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
 目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
 目前已覆盖：
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
-- **《GB 2312-80》** 除「麴」外的所有汉字 6762 字。
+- **《GB/ 2312-80》** 除「麴」外的所有汉字 6762 字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ### 概览
