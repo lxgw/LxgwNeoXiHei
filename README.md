@@ -10,7 +10,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 字体简介
 这是一款基于 [IPAex黑体](https://ipafont.ipa.go.jp) 的中文开源字体，是将日本写法的字体改造成简体中文写法的尝试。
 
-本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求；自 v0.900 版本起，对该字体的汉字字形进行间架调整和规范化，并精简部分部件的「出脚」。
+本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形进行间架调整和规范化，消除「断笔」并精简部分部件的「出脚」。
 
 ### 字汇
 本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
