@@ -19,7 +19,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
-- **《GB 2312-80》所有汉字** 6763 字。
+- **《GB 2312-80》**除「麴」外的所有汉字 6762 字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
 ### 概览
