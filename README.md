@@ -10,7 +10,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 字体简介
 这是一款基于 [IPAex黑体](https://ipafont.ipa.go.jp) 的中文开源字体，是将日本写法的字体改造成简体中文写法的尝试。
 
-本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形进行间架调整和规范化，并对部分笔型进行调整，消除「断笔」并精简部分部件的「出脚」。
+本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆的标准字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型进一步调整。
 
 ### 字汇
 本字库包含 GB 2312-80 及 [《通用规范汉字表》](http://www.gov.cn/zwgk/2013-08/19/content_2469793.htm) 所收录的汉字。  
@@ -64,8 +64,9 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 ## 联系作者
 
-- **Telegram：** @lxgwtg
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
-- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
