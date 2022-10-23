@@ -46,7 +46,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
 2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
-3. v0.900 暂时剔除部分表外字，待重新整理后加入至本字体和[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)字体中。
+3. v0.900 暂时剔除部分表外字，待后续重新整理后加入至本字体和[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)字体中。
 4. **请勿将字体文件单独售卖。**
 
 ## 版权信息
