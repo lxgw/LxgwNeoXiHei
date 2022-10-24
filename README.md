@@ -10,7 +10,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 字体简介
 这是一款基于 [IPAex黑体](https://ipafont.ipa.go.jp) 的中文开源字体，是将日本写法的字体改造成简体中文写法的尝试。
 
-本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆规范字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型作进一步调整，尽可能严格遵循 G 标字形规范；此外简化了部分部件的出脚（如「枸」「间」「陶」等字中「口」「日」「缶」部件的出脚），更加简洁。
+本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆规范字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型作进一步调整，尽可能严格遵循 G 标字形规范；此外简化了一些部件的出脚（如「枸」「间」「陶」等字中「口」「日」「缶」部件的出脚），使字形更加简洁。
 
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
