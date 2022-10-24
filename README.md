@@ -59,7 +59,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
 
 ## 鸣谢
-- TB Gothic *by Takao Hayashi*
+- [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) *by Takao Hayashi*
 - [IPAex Gothic](https://ipafont.ipa.go.jp/) *by Information-technology Promotion Agency, Japan (IPA)*
 - [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Design*
 
