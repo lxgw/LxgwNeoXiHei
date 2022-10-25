@@ -84,11 +84,11 @@
 
 ## 3. 未被以上类别收录，但在人名、地名、科教、方言等领域较为常见的汉字
 
-> ☛ 本类别中的汉字参考 https://github.com/eisoch/irg，后续会对这些汉字进行进一步整理和取舍处理。
+> ☛ 本类别中的汉字参考 https://github.com/eisoch/irg ，后续会对这些汉字进行进一步整理和取舍处理。
 
 ### 3.1 人名用字
 
-> ☞ 参考 https://github.com/eisoch/irg/issues/85。
+> ☞ 参考 https://github.com/eisoch/irg/issues/85 。
 
 - **IIcore/UnihanCore 之外： **㶉㻪䒕䞍𠍐𠧚𡛰𡶦𢒉𣬂𤯥𪥰𪻐𫰡𫲦𬎆𬬺𮧵𰌂𰌀𰞇𰵝𰵞𰾫𲂎𲈗
 
@@ -96,7 +96,7 @@
 
 ### 3.2 地名用字
 
-> ☞ 参考 https://github.com/eisoch/irg/issues/105。
+> ☞ 参考 https://github.com/eisoch/irg/issues/105 。
 
 - **IIcore/UnihanCore 之外：** 㘰㯊㵲㹧湻𣵦𣸤𤱙𪉈𪿖𬇞𬮴𰽚𱖎𱖒𱮒
 
@@ -104,7 +104,7 @@
 
 ### 3.3 科教、文化等多个领域
 
-> ☞ 参考 https://github.com/eisoch/irg/issues/86。
+> ☞ 参考 https://github.com/eisoch/irg/issues/86 。
 
 - **IIcore/UnihanCore 之外：** 㓥㻋䙆昚襈鼟𡺎𤞤𦏴𩉜𪠽𫊻𫖃𫖘𫛩𫵘𬪍𬸅𭎂𮔅𮣲𮬝𮬡𰇣𰡘𰯼𰵧𰽗𰽴𱂩𱇱𱌮𱎼𲍭
 
@@ -114,7 +114,7 @@
 
 ### 3.4 方言用字
 
-> ☞ 参考 https://github.com/eisoch/irg/issues/84。
+> ☞ 参考 https://github.com/eisoch/irg/issues/84 。
 
 - **IIcore/UnihanCore 之外：** 㞎䖢䜺䲝煿糄鿽𠊎𡚦𦠿𧒽𩠍𪨊𫗫𫗰𫚔𬂁𬊶𬖋𬖞𬲱𬲽𬳇𰪿𰻝𱃱𱫉𱹍𲀃𲋤
 
@@ -122,7 +122,7 @@
 
 ### 3.5 现代汉语中较为常用的日本和制汉字、朝韩吏读字及越南喃字
 
-> ☞ 参考 https://github.com/eisoch/irg/issues/96。
+> ☞ 参考 https://github.com/eisoch/irg/issues/96 。
 
 #### 3.5.1 日本和制汉字
 
@@ -138,6 +138,6 @@
 
 ## 4. 未被以上类别收录的其他汉字
 
-> ☛ 本类别中的汉字参考 https://github.com/Honoka55/tonggui-ext，截至 22/10/25。
+> ☛ 本类别中的汉字参考 https://github.com/Honoka55/tonggui-ext ，截至 22/10/25。
 
 㨃㹴㽲䌷䜩仌冚冧咵墺峬晻栔椇槏橿檨殽毑毴狓獚獛玏璏瓌甽疕睒瞏硃箣苝苨苶茖荵菵蒾蚖蚚蟿蠵貒躄鞌𣏢𦗒𪠸𪢮𪨇𫍻𬮤𮀔𮉫𰱲𰶊𱂐𱅋
