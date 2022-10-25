@@ -90,7 +90,7 @@
 
 > ☞ 参考 https://github.com/eisoch/irg/issues/85 。
 
-- **IIcore/UnihanCore 之外： **㶉㻪䒕䞍𠍐𠧚𡛰𡶦𢒉𣬂𤯥𪥰𪻐𫰡𫲦𬎆𬬺𮧵𰌂𰌀𰞇𰵝𰵞𰾫𲂎𲈗
+- **IIcore/UnihanCore 之外：** 㶉㻪䒕䞍𠍐𠧚𡛰𡶦𢒉𣬂𤯥𪥰𪻐𫰡𫲦𬎆𬬺𮧵𰌂𰌀𰞇𰵝𰵞𰾫𲂎𲈗
 
 - **IIcore/UnihanCore 之内：** 㛅淽爕醁霑霙𠇔𡝗𥖄𧝁
 
