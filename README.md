@@ -1,9 +1,9 @@
-![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNewClearGothic/main/documentation/newxihei2023.png)  
+![LXGW New XiHei 2023](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/neoxihei.png)  
 「霞鹜新晰黑」字形优化计划正在进行中，预计 2023 年更新，敬请赐候。
 
 ---
 
-# LXGW New XiHei (Simplified Chinese)</br>霞鹜新晰黑（简）
+# LXGW Neo XiHei (Simplified Chinese)</br>霞鹜新晰黑（简）
 A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
 
@@ -23,7 +23,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - **《通用规范汉字表》** 8105 字；
 - **《GB/T 2312-80》** 除「麴」外的所有汉字 6762 字。
 ### 更新记录
-[点击此处查看更新记录。](https://github.com/lxgw/LxgwNewClearGothic/blob/main/History.md)
+[点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
 ### 概览
 ![sli0Ig.png](https://s3.ax1x.com/2021/01/10/sli0Ig.png)
 ![slidZ8.png](https://s3.ax1x.com/2021/01/10/slidZ8.png)
