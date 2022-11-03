@@ -21,7 +21,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
-- **《GB/T 2312-80》** 除「麴」外的所有汉字 6762 字。
+- **《GB/T 2312-80》**  6763 字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
 ### 概览
@@ -46,7 +46,6 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
 2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
-3. v0.900 暂时剔除部分表外字，待后续重新整理后加入至本字体和[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)字体中。
 4. **请勿将字体文件单独售卖。**
 
 ## 版权信息
