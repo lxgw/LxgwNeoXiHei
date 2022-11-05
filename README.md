@@ -22,6 +22,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
 - **《GB/T 2312-80》**  6763 字。
+- 此外按需添加一些表外字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
 ### 概览
