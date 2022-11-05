@@ -15,9 +15,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
 ### 字汇
-本字库包含 GB/T 2312-80 及《通用规范汉字表》所收录的汉字。  
 目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
-目前已覆盖：
+已覆盖：
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
@@ -42,12 +41,12 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」「霞鹜新晰黑 屏幕阅读版」和「霞鹜尚智黑」。
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
-3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。
+<!--3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
-2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
-4. **请勿将字体文件单独售卖。**
+2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新，敬请谅解）。
+3. **请勿将字体文件单独售卖。**
 
 ## 版权信息
 - 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
