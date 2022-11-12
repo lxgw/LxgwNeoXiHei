@@ -10,18 +10,18 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 字体简介
 这是一款基于 [IPAex黑体](https://ipafont.ipa.go.jp) 的中文开源字体，是将日本写法的字体改造成简体中文写法的尝试。
 
-本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆规范字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型作进一步调整，尽可能严格遵循 G 标字形规范；简化了一些部件的出脚（如「枸」「间」「陶」等字中「口」「日」「缶」部件的出脚），使字形更加简洁。此外重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格一致，更适合现代希腊文及西里尔文的排版。
+本字体尝试在 [「IPAex黑体」](https://ipafont.ipa.go.jp) 和 [「霞鹜晰黑」](https://github.com/lxgw/LxgwClearGothic) 原有字形的基础上，将其改造成中国大陆规范字形，更加适合中国大陆用户的需求。自 v0.900 版本起，对该字体的汉字字形和笔型作进一步调整，尽可能严格遵循 G 标字形规范；简化了一些部件的出脚（如「枸」「间」「陶」「岩」等字中「口」「日」「缶」「山」部件的出脚），使字形更加简洁。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。
 
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。
 
 ### 字汇
-本字库包含 GB/T 2312-80 及《通用规范汉字表》所收录的汉字。  
 目前已有 8000+ 个简体中文汉字，基本满足现代汉语（简体字）日常需要。
-目前已覆盖：
+已覆盖：
 - **《现代汉语常用字表》** 3500 字；
 - **《现代汉语通用字表》** 7000 字；
 - **《通用规范汉字表》** 8105 字；
 - **《GB/T 2312-80》**  6763 字。
+- 此外按需添加一些表外字。
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
 ### 概览
@@ -41,15 +41,15 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」「霞鹜新晰黑 屏幕阅读版」和「霞鹜尚智黑」。
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
-3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。
+<!--3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
-2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（已归档处理，不再更新）。
-4. **请勿将字体文件单独售卖。**
+2. 本字体未计划收录繁体字。有繁体字的版本请参阅 [霞鹜传承晰黑](https://github.com/lxgw/LxgwClearGothic)（由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解）。
+3. **请勿售卖该字体。**
 
 ## 版权信息
-- 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
+- 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 开源项目。
 - 本字体基于 [IPA Font License 1.0](https://opensource.org/licenses/IPA/) 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
