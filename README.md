@@ -49,7 +49,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 3. **请勿将字体文件单独售卖。**
 
 ## 版权信息
-- 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
+- 本字体是基于 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 开源项目。
 - 本字体基于 [IPA Font License 1.0](https://opensource.org/licenses/IPA/) 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
