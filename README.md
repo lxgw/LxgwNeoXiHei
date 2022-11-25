@@ -29,7 +29,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - [ ] 港台常用字；
 - [ ] GB/T 12345-90；
 - [ ] 通用规范汉字表附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
-- [ ] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字；
+- [ ] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（采用 BabelPad 转换）；
 - [ ] IICore。
 
 ### 更新记录
