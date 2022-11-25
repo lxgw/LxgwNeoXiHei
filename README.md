@@ -3,7 +3,7 @@
 
 ---
 
-# LXGW Neo XiHei (Simplified Chinese)</br>霞鹜新晰黑（简）
+# LXGW Neo XiHei / 霞鹜新晰黑
 A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
 
@@ -27,10 +27,10 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 #### 繁体部分
 - [ ] 港台常用字（包括台湾地区 4808 常用字、香港地区 4825 常用字）；
-- [ ] GB/T 12345-90；
+- [ ] GB/T 12345-90 汉字部分 6866 字；
 - [ ] 通用规范汉字表附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
 - [ ] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（采用 BabelPad 转换）；
-- [ ] IICore。
+- [ ] 补全 IICore 收录的 9810 个汉字。
 
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
