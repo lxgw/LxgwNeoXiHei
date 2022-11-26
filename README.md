@@ -1,5 +1,5 @@
 ![NeoXiHei](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/NeoXiHei.png)  
-「霞鹜新晰黑」字形优化计划正在进行中，预计 2023 年更新，敬请赐候。
+「霞鹜新晰黑」字形优化计划正在进行中，预计 2023 年发布 v1.0 正式版，敬请赐候。
 
 ---
 
