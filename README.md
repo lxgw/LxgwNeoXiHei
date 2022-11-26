@@ -51,7 +51,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 -->
 
 ## 如何下载
-1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」「霞鹜新晰黑 屏幕阅读版」和「霞鹜尚智黑」。
+1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」「霞鹜新晰黑 屏幕阅读版」（正式版发布时发布）和「霞鹜尚智黑」。
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
 <!--3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
 
