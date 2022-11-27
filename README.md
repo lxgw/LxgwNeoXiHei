@@ -60,7 +60,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 2. 简繁版正在制作中，增补速度取决于业余时间和精力。由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（参考 Unicode 码表中的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
 3. **请勿售卖该字体。**
 
-## 版权信息
+## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
 <!--
 您可以：
