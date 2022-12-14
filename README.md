@@ -32,7 +32,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - [ ] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（采用 BabelPad 转换）；
 - [ ] 补全 IICore 收录的 9810 个汉字。
 
-以上字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+以上简繁字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
