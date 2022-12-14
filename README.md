@@ -23,7 +23,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - [x] [GB/T 2312-80](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
 - [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。
 
-以上字汇共计 9000+，基本满足简体中文使用需求。
+以上字汇共计 9 千余字，可基本满足简体中文使用需求。
 
 #### 繁体部分
 - [x] 港台常用字（包括台湾地区 [4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、香港地区 [4825 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
@@ -31,6 +31,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - [ ] 通用规范汉字表附件 1：「规范字与繁体字、异体字对照表」中的繁体字列；
 - [ ] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（采用 BabelPad 转换）；
 - [ ] 补全 IICore 收录的 9810 个汉字。
+
+以上字汇共计 1.3 万余字，可基本满足简繁日常用字的显示。
 
 ### 更新记录
 [点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
