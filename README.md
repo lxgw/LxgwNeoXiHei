@@ -35,7 +35,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 以上简繁字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ### 更新记录
-[点击此处查看更新记录。](https://github.com/lxgw/LxgwNeoXiHei/blob/main/History.md)
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录不再维护，敬请谅解。
+
 ### 概览
 > Under construction ...
 <!--
