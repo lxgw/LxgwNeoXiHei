@@ -27,7 +27,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 
 #### 第二部分（繁异体为主）
 
-详见[外字初步整理表 第二部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)
+详见[外字初步整理表 第二部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md)
 
 - [x] 港台常用字（包括台湾地区 [4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、香港地区 [4825 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
 - [x] [GB/T 12345-90](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 汉字部分 6866 字、[BIG5 一级（常用）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 字；
