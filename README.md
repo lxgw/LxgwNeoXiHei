@@ -35,7 +35,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 - [x] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，可能有遗漏）；
 - [x] 补全 IICore 收录的 9810 个汉字。
 
-以上简繁字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
+以上两部分字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录不再维护，敬请谅解。
