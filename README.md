@@ -65,7 +65,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
 3. 另有[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
-4. 由于本字体的源字体 IPAexGothic 只有一个字重，此外 IPAexGothic 的原版字体 TB Gothic 虽有多个字重，但却为商业字体，因此没有制作多字重的计划，敬请谅解。
+4. 由于本字体的源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 5. **请勿售卖该字体。**
 
 ## 授权信息
