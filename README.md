@@ -77,7 +77,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 -->
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件。
-- 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。后续衍生不可使用原始授权程序的保留名称「IPA」（包括程序名、文件名、字体名）。
+- 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。后续字体衍生不可使用原始授权程序的保留名称「IPA」（包括程序名、文件名、字体名）。
 
 ## 鸣谢
 - [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) *by Takao Hayashi*
