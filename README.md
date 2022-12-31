@@ -66,7 +66,6 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
 3. 另有[霞鹜新晰黑屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
 4. 由于本字体的源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
-5. **请勿售卖该字体。**
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
@@ -77,6 +76,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA 的规定释出。
 -->
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
+- 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的条件下，须免费提供字体文件。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
 
 ## 鸣谢
