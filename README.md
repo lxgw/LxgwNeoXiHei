@@ -1,8 +1,3 @@
-![NeoXiHei](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/NeoXiHei.png)  
-「霞鹜新晰黑」字形优化计划正在进行中，预计 2023 年发布 v1.0 正式版，敬请赐候。
-
----
-
 # LXGW Neo XiHei / 霞鹜新晰黑
 A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的简体中文黑体字型。
 
@@ -57,16 +52,15 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 -->
 
 ## 如何下载
-1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」「霞鹜新晰黑 屏幕阅读版」（正式版发布时发布）和「霞鹜尚智黑」。
+1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」和「霞鹜尚智黑」。
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
 <!--3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
-3. 另有[屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
-4. 由于本字体的源字体 IPAexGothic 只有一个字重，此外 IPAexGothic 的原版字体 TB Gothic 虽有多个字重，但却为商业字体，因此没有制作多字重的计划，敬请谅解。
-5. **请勿售卖该字体。**
+3. 另有[霞鹜新晰黑屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
+4. 由于本字体的源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
@@ -77,6 +71,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA 的规定释出。
 -->
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
+- 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件。后续衍生不可使用原始授权程序的名称（包括程序名、文件名、字体名），且须在相同许可下授权（故 IPA Font License 1.0 与 SIL OFL 1.1 不兼容）。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
 
 ## 鸣谢
