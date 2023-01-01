@@ -36,28 +36,27 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录不再维护，敬请谅解。
 
 ### 概览
-> Under construction ...
-<!--
-![sli0Ig.png](https://s3.ax1x.com/2021/01/10/sli0Ig.png)
-![slidZ8.png](https://s3.ax1x.com/2021/01/10/slidZ8.png)
-![sliwdS.png](https://s3.ax1x.com/2021/01/10/sliwdS.png)
-![sliUqf.png](https://s3.ax1x.com/2021/01/10/sliUqf.png)
-![sliNsP.png](https://s3.ax1x.com/2021/01/10/sliNsP.png)
-![sliDiQ.png](https://s3.ax1x.com/2021/01/10/sliDiQ.png)
-
-### 手机显示预览
-*以 Book 字重为例，Android 10，Pixel Experience。*  
-![s36WHe.png](https://s3.ax1x.com/2021/01/11/s36WHe.png)
-![s36hAH.png](https://s3.ax1x.com/2021/01/11/s36hAH.png)
--->
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-1.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-2.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-3.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-4.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-5.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-6.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-7.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-8.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-9.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-a.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-b.png)  
+![](https://https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-c.png)  
 
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」和「霞鹜尚智黑」。
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
-<!--3. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
+3. 进入 [永硕网盘](http://lxgw.ysepan.com)、[蓝奏云（密码 gzga）](https://lxgw.lanzoum.com/b0cqrxuba) 下载「霞鹜新晰黑」TTF 格式字体文件及 Magisk 模块。
+<!--4. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
 
 ## 注意事项
-1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。
+1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwNeoXiHei/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwNeoXiHei/issues/5) 反馈，不要另开议题，以便于整理。
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
 3. 另有[霞鹜新晰黑屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
 4. 由于本字体的源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
