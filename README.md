@@ -61,7 +61,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于�
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwNeoXiHei/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwNeoXiHei/issues/5) 反馈，不要另开议题，以便于整理。
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。至于[传承晰黑](https://github.com/lxgw/LxgwClearGothic)，由于其他传承字体项目已有类似的计划，该传承晰黑字体归档处理，不再更新，敬请谅解。
 3. 另有[霞鹜新晰黑屏幕阅读版](https://github.com/lxgw/LxgwNeoXiHei-Screen)，稍作加粗，更适合 PC 及 Android 手机屏幕显示。
-4. 由于本字体的原始开源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
+4. 由于本字体的原始开源字体 [IPAexGothic](https://ipafont.ipa.go.jp/) 只有一个字重，如果以多种主流多字重黑体的标准去制作多字重，而不是简单的机械加粗减细，需要耗费更多的时间和精力。此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
