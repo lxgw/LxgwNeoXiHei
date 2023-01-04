@@ -1,6 +1,8 @@
 # IPA 开放字体授权协议 1.0 版（简体中文译本）
 
-译者按：译文仅供参考，如有错误或出入，请参见原日语/英文版。此外，本译文并没有法律效力，请参见以下声明。本简体中文译文原译为[夜煞之乐](https://github.com/NightFurySL2001)，[一点字坊](https://github.com/ichitenfont)校验内文，落霞孤鹜改进部分翻译。本译文只供参考使用。如有任何差异，请参阅日语/英语原文条款。
+译者按：译文仅供参考，如有错误或出入，请参见原日语/英文版。此外，本译文并没有法律效力，请参见以下声明。
+
+本简体中文译文原译为[夜煞之乐](https://github.com/NightFurySL2001)，[一点字坊](https://github.com/ichitenfont)校验内文，[落霞孤鹜](https://github.com/lxgw)改进部分翻译。本译文只供参考使用。如有任何差异，请参阅日语/英语原文条款。
 
 * [For English, please click here.](LICENSE.md/#ipa-font-license-agreement-v10)
 * [日本語バージョンは、こちらをご覧ください。](LICENSE.md)
