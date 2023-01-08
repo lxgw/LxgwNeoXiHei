@@ -1,5 +1,6 @@
 # LXGW Neo XiHei / 霞鹜新晰黑
-A Simplified Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
+一款衍生于「IPAexゴシック」的中文黑体字型。
 
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwNeoXiHei?style=flat-square)](https://github.com/lxgw/LxgwNeoXiHei/releases/latest)
 [![视频介绍](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1JK41127aw)
