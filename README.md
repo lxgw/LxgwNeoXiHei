@@ -58,6 +58,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 2. 进入 **猫啃网** 下载[「霞鹜新晰黑」](https://www.maoken.com/freefonts/8999.html)和[「霞鹜尚智黑」](https://www.maoken.com/freefonts/10610.html)。
 3. 进入 [永硕网盘](http://lxgw.ysepan.com)、[蓝奏云（密码 gzga）](https://lxgw.lanzoum.com/b0cqrxuba) 下载「霞鹜新晰黑」TTF 格式字体文件及 Magisk 模块。
 <!--4. 如果您使用 macOS, 已经安装过 [Homebrew](https://brew.sh/), 可以在终端输入命令：`brew tap homebrew/cask-fonts && brew install font-lxgw-new-clear-gothic` 来安装本字体。-->
+5. 如果你使用Windows，可查看官方教程: [Windows官方：如何在Windows中安装或删除字体](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8) 
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwNeoXiHei/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwNeoXiHei/issues/5) 反馈，不要另开议题，以便于整理。
