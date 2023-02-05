@@ -97,3 +97,12 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
 - **哔哩哔哩：** [@霞鹜lxgw](https://space.bilibili.com/3461565661579301)
 - **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+## 打赏支持
+
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwNeoXiHei.svg)](https://starchart.cc/lxgw/LxgwNeoXiHei)
+
