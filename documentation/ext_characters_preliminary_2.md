@@ -16,7 +16,7 @@
 
 ### 1.2 香港地区常用字
 
-> ☞ [字表来源](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)
+> ☞ [字表来源](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)，包含少量异体字。
 
 仼佈倶僣嫺宂峩峯崗忼怱慳擡擧敍曬枏枱柺榦檯歎氊爲牀畧疎癡砲穇竈粺糉綉綫縕繳翺艶薦薶虯蠏裏襃訏説譌贋蹟輭鈎鉢銹鋭閲陜靭鹵麪鼈
 
