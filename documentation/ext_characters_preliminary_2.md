@@ -2,7 +2,7 @@
 
 （2022 年 12 月 22 日）
 
-本表为[「外字初步整理表」](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)的续表，用于整理「外字初步整理表」（第一部分）之外的一些汉字，多为繁体、异体字，将在「霞鹜新晰黑」简繁版本中加入。
+本表为[「外字初步整理表」](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)的续表，用于整理「外字初步整理表」（第一部分）之外的一些汉字，多为繁体、异体字，将在「霞鹜新晰黑」和「霞鹜文楷 GB」中加入。
 
 下列汉字如无特殊标注则按 Unicode 码位排序，**每个字只出现一次。** 仅供参考。
 
