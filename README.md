@@ -17,9 +17,9 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
-- [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
-- [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
 - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
+- [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
+- [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
 - [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。
 
 以上字汇共计 9 千余字，可基本满足简体中文使用需求。
