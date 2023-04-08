@@ -13,7 +13,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。*（注：尚智黑的符号相比于新晰黑会有所欠缺，且可能在后续更新中随时撤消，敬请留意。）*
 
-### 字汇
+### 计划字汇
 
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
