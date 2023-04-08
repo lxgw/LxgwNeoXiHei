@@ -85,6 +85,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 ## 其它项目
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC) | [国标字形](https://github.com/lxgw/LxgwWenkaiGB)
+- [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)（筹划中）
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
