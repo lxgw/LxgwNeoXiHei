@@ -20,13 +20,13 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
 - [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
 - [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
-- [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)。
+- [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。
 
 以上字汇共计 9 千余字，可基本满足简体中文使用需求。
 
 #### 第二部分（繁异体为主）
 
-详见[外字初步整理表 第二部分（繁异体及其他外字）](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md)
+详见[外字初步整理表 第二部分（繁异体及其他外字）](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)
 
 - [x] 港台常用字（包括[台湾地区 4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、[香港地区常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
 - [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 汉字部分 6866 字、[BIG5 一级（常用）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 字；
