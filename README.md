@@ -11,7 +11,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 本字体尝试在[「IPAex黑体」](https://moji.or.jp/ipafont)和[「霞鹜传承晰黑」](https://github.com/lxgw/LxgwClearGothic)（已归档）原有字形的基础上，将其改造成中国大陆规范字形；简化了一些部件的出脚（如「枸」「间」「陶」「岩」等字中「口」「日」「缶」「山」部件的出脚），使字形更加简约。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。
 
-另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。*（注：尚智黑的符号相比于新晰黑会有所欠缺，且可能在后续更新中随时撤消，敬请留意。）*
+另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。*（注：尚智黑的符号相比于新晰黑会有所欠缺，敬请留意。）*
 
 ### 字汇
 
@@ -54,6 +54,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-a.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-b.png)  
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-c.png)  
+![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/fasmart.png) 
 
 ## 如何下载
 1. 进入 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 页面下载「霞鹜新晰黑」和「霞鹜尚智黑」。
