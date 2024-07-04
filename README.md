@@ -13,6 +13,9 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 另提供 **「霞鹜尚智黑」**，在[「03スマートフォントUI」](https://www.maoken.com/freefonts/10369.html)的基础上修改制作，将新晰黑字面横向压缩 94%，全新英数与假名，更具稳重时尚感。*（注：尚智黑的符号相比于新晰黑会有所欠缺，敬请留意。）*
 
+> [!NOTE]
+> 在发布补全 GBK 的版本之后，将不再于 Release 中附赠《霞鹜尚智黑》。
+
 ### 字汇
 
 #### 第一部分（简体为主）
