@@ -34,12 +34,11 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - [x] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（主要采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，一少部分为后加，可能存在遗漏）；
 - [x] 补全 IICore 收录的 9810 个汉字。
 
-#### 最终目标
-- [ ] 补全 CJK 统一表意文字基本区 20992 字。
-
 以上两部分字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
 
 除此之外，包含了原始授权字体（IPAexGothic）所收基本区、扩展 A 区汉字以及兼容汉字区的非兼容汉字，并额外增加了基本区的部分其他汉字。目前本字体所支持的汉字约为 1.7 万字。
+
+- [ ] 终极目标：补全 CJK 统一表意文字基本区 20992 字，以及 GBK 所收录的其他字符。
 
 ### 更新记录
 历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
