@@ -80,8 +80,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 ## 鸣谢
 - [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) *by Takao Hayashi*
 - [IPAex Gothic](https://moji.or.jp/ipafont) *by Information-technology Promotion Agency, Japan (IPA)*
-- [03 Smart Font UI](http://www.flopdesign.com/freefont/smartfont.html) *by Flop Design*
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
+- ZERO 子、Georgome 等协助补字。
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
