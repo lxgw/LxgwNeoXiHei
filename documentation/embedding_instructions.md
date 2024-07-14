@@ -44,7 +44,7 @@ To replace this font with the original IPA font, please get the original font fr
 对于网页字体（webfont），由于 IPA 授权条款对衍生字体的特殊限制，不太建议将该字体用于 webfont，因为 webfont 不易使用户将其恢复为原始字体，这样可能会违反 IPA 授权协议。如果要将该字体用于 webfont，可参考 [JPAfonts](https://osdn.net/projects/jpafonts/howto/usage) 的使用方法，不过这种方法会首先调用本机安装的 IPA 字体，如果用户的电脑已经安装了 IPA 原始字体，可能会使中文显示异常。此外，或许可以在网站中说明用户可以利用浏览器插件或 Firefox 的强制全局字体功能自愿更换成原始的 IPA 字体。
 
 ### 选用其他授权许可的字体
-最后，如果不是特别需要嵌入「晰致尚铭」字体，建议选用 SIL OFL 1.1、Apache License 2.0 等其他授权许可下发行的字体，对衍生字体没有特殊的嵌入限制，自由度更高。
+最后，如果不是特别需要嵌入「晰致尚铭」字体，或者不同意 IPA 字体授权许可条款，建议选用 SIL OFL 1.1、Apache License 2.0 等其他授权许可下发行的字体，对衍生字体没有特殊的嵌入限制，自由度更高。
 
 > ### 附：IPA 字体授权协议常见问题解答 §3.3.2 原文及译文
 > #### 3.3.2 利用者が、その意志により、派生プログラムをオリジナルのIPAフォントに戻せる方法を提供しなければならない。
