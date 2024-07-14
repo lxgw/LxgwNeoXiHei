@@ -19,7 +19,7 @@
 
 如果您要将「晰致尚铭」系列字体（下称「该字体」）用于 APP（包括游戏）、硬件操作系统、网页等各类嵌入式应用，为了满足 IPA 字体授权协议及其 FAQ 文件规定的条款和条件，请阅读以下「嵌入指引」。
 ## 嵌入指引
-如果您要将该字体嵌入于 APP、硬件设备操作系统或网页等，请在 APP、操作系统或网站的「开源许可」页面中针对该字体附上 [IPA Font License 1.0](https://opensource.org/license/ipafont-html) 全文或 URL（https://opensource.org/licenses/ipa 或 https://moji.or.jp/ipafont/license）。
+如果您要将该字体嵌入于 APP、硬件设备操作系统或网页等，请在 APP、操作系统或网站的「开源许可」页面中针对该字体附上 [IPA Font License 1.0](https://opensource.org/license/ipafont-html) 全文或 URL（https://opensource.org/licenses/ipa 或 https://moji.or.jp/ipafont/license ）。
 
 此外，还需要提供一种方法，让用户按照自己的意愿将该字体恢复到 IPA 原始授权字体，以满足 IPA 字体授权协议及其 FAQ 文件的相关规定。以下是一些具体的方法，可供参考或选择：
 
