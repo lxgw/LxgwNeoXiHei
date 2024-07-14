@@ -27,7 +27,7 @@
 此外，还需要提供一种方法，让用户按照自己的意愿将该字体恢复到 IPA 原始授权字体，以满足 IPA 字体授权协议及其 FAQ 文件的相关规定。以下是一些具体的解决方法，可供参考或选择：
 
 ### 方法一：在授权协议的下方附上恢复原始字体的方法说明
-您可以在 APP 操作系统的「开源许可」页面中为该字体所附的 IPA Font License 1.0 全文或 URL 下方增加恢复倒原始字体的方法说明，例如：
+您可以在 APP 操作系统的「开源许可」页面中为该字体所附的 IPA Font License 1.0 全文或 URL 下方增加恢复到原始字体的方法说明，例如：
 
 ```
 To replace this font with the original IPA font, please get the original font from https://moji.or.jp/ipafont/ipafontdownload/ and replace the font file in <directory>.
