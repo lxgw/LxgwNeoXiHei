@@ -1,4 +1,4 @@
-> [!NOTICE]
+> [!NOTE]
 > 本须知内容适用于以下字体：
 >
 > - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
