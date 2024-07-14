@@ -1,4 +1,3 @@
-
 > 本须知内容适用于以下字体：
 >
 > - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
@@ -33,7 +32,7 @@ To replace this font with the original IPA font, please get the original font fr
 
 ### 方法二：提供恢复原始字体的用户界面
 或者，提供一个用户界面来引导用户将该字体替换回原始字体，这样更符合 IPA 授权条款 FAQ 中关于衍生字体与信息设备或装置捆绑再分发的规定（如果是类似下图一键恢复原始字体的界面，则可能需要将该字体和原始字体共同嵌入，或者需要具备联网下载和解压原始字体的功能；如果用户界面只是指导用户手动替换字体，则不需要再嵌入原始字体）。
-![](https://img.picui.cn/free/2024/07/14/6693830334df9.png)
+![一键恢复原始字体的用户界面](https://img.picui.cn/free/2024/07/14/6693830334df9.png)
 
 ### 方法三：与原始字体一同嵌入
 再或者，与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho，如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
