@@ -73,6 +73,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex黑体](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。使用本字体时，请遵从[「IPA开放字型授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
+- 您可以将本字体用于数字文档、影音内容、出版物设计以及其他各种设计用途，包括商业和非商业用途。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件。后续衍生不可使用原始授权程序的名称（包括程序名、文件名、字体名），且须继承原有授权条款（故 IPA Font License 1.0 与 SIL OFL 1.1 不兼容）。
 - 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体文件。对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），[请点击此处](documentation/embedding_instructions.md)。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
