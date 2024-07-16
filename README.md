@@ -71,8 +71,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 4. 由于本字体的原始开源字体 [IPAexGothic](https://moji.or.jp/ipafont) 只有一个字重，如果以多种主流多字重黑体的标准去制作多字重，而不是简单的机械加粗减细，需要耗费更多的时间和精力；此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 
 ## 授权信息
-- 本字体在 IPA 所开发并发布的[「IPAexゴシック」](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA 开放字体授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
-  使用本字体时，请遵从[「IPA 开放字体授权条款 第1.0版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
+- 本字体在 IPA 所开发并发布的[「IPAexゴシック」](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA 开放字体授权条款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
+  使用本字体时，请遵从[「IPA 开放字体授权条款 1.0 版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
 - 您可以将本字体用于印刷品、数字文档、影视内容、海报广告、包装、出版物设计以及其他各种设计用途，包括商业和非商业用途；  
   也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（故 IPA 字体授权许可与 SIL OFL 不兼容）。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件，不得将字体文件单独售卖。
