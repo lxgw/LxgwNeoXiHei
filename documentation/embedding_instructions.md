@@ -41,13 +41,13 @@ To replace this font with the original IPA font, please get the original font fr
 ![pk53CFA.png](https://s21.ax1x.com/2024/07/14/pk53CFA.png)
 
 ### 方案三：与原始字体一同嵌入
-再或者，与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho，如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
+再或者，如果存储空间允许，则可以与 IPA 原始授权字体共同嵌入，便于用户自行切换或者分语言调用（例如当系统语言为简体中文时，优先调用「霞鹜新晰黑」和「霞鹜新致宋」，繁体中文优先调用「霞鹜晰黑 MN」和「霞鹜致宋 MN」，日文则优先调用原始授权字体 IPAexGothic 和 IPAexMincho，如果要嵌入该字体的软件或系统有多语言功能则推荐此方法）。原始授权字体可在 [IPA 字体下载页面](http://moji.or.jp/ipafont/ipafontdownload/)获取。
 
 ### 用于网页字体（webfont）
 对于网页字体（webfont），由于 IPA 授权条款对衍生字体的特殊限制，不太建议将该字体用于 webfont，因为 webfont 不易使用户将其恢复为原始字体，这样可能会违反 IPA 授权协议。如果要将该字体用于 webfont，可参考 [JPAfonts](https://osdn.net/projects/jpafonts/howto/usage) 的使用方法，不过这种方法会首先调用本机安装的 IPA 字体，如果用户的电脑已经安装了 IPA 原始字体，可能会使中文显示异常。此外，或许可以在网站中说明用户可以利用浏览器插件或 Firefox 的强制全局字体功能自愿更换成原始的 IPA 字体。
 
 ### 选用其他授权许可的字体
-最后，如果不是特别需要嵌入「晰致尚铭」字体，或者对 IPA 字体授权许可条款不能理解或接受，建议选用 SIL OFL 1.1、Apache License 2.0 等其他授权许可下发行的字体，对衍生字体没有特殊的嵌入限制，自由度更高。
+最后，如果不是特别需要嵌入「晰致尚铭」字体，或者对 IPA 字体授权许可条款仍然不能理解或接受，建议选用 SIL OFL 1.1、Apache License 2.0 等其他授权许可下发行的字体，对衍生字体没有特殊的嵌入限制，自由度更高。
 
 > ### 附：IPA 字体授权协议常见问题解答 §3.3.2 原文及译文
 > > #### 3.3.2 利用者が、その意志により、派生プログラムをオリジナルのIPAフォントに戻せる方法を提供しなければならない。
