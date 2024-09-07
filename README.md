@@ -74,7 +74,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 3. 由于本字体的原始开源字体 [IPAexGothic](https://moji.or.jp/ipafont) 只有一个字重，如果以多种主流多字重黑体的标准去制作多字重，而不是简单的机械加粗减细，需要耗费更多的时间和精力；此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 4. 提供[「霞鹜新晰黑 屏幕阅读版 / LXGW Neo XiHei Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，稍作加粗并调整度量，更适合 PC 及 Android 手机屏幕显示。
 5. 提供[「霞鹜新晰黑 融合 / LXGW Neo XiHei Fusion」](https://github.com/lxgw/LxgwNeoXiZhi-Fusion)，补全基本区和扩 A 区所有汉字，达到 GB 18030-2022 实现等级 2 的收字范围。由于 IPA 系字体与 Droid Sans Fallback 的风格差异，在混排中会存在一定的违和感。
-6. 提供[「新晰黑体 / SimXiHei」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「黑体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「黑体」的文档可以直接套换「新致黑体」而不会出现大面积重新排版的现象。
+6. 提供[「新晰黑体 / SimXiHei」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「黑体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「黑体」的文档可以直接套换「新晰黑体」而不会出现大面积重新排版的现象。
 
 ## 授权信息
 - 本字体在 IPA 所开发并发布的[「IPAexゴシック」](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA 开放字体授权条款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
