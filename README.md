@@ -80,7 +80,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - 本字体在 IPA 所开发并发布的[「IPAexゴシック」](https://moji.or.jp/ipafont) 基础上衍生，依照 [IPA 开放字体授权条款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。  
   使用本字体时，请遵从[「IPA 开放字体授权条款 1.0 版」](LICENSE_CHS.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10), [IPAフォントライセンスv1.0](LICENSE.md)）之规定。
 - 您可以将本字体用于印刷品、数字文档、影视内容、海报广告、包装、出版物设计以及其他各种设计用途，包括商业和非商业用途；  
-  也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（IPA Font License 1.0 与 SIL OFL 1.1 均是 copyleft 许可，二者互不兼容）。
+  也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（IPA Font License 1.0 与 SIL OFL 1.1 均是 Copyleft 许可，二者互不兼容）。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件，不得将字体文件单独售卖。
 - 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体「IPAexゴシック」。  
   对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），需要满足 IPA 许可中针对衍生字体再分发的限制条件，[请点击此处](documentation/embedding_instructions.md)了解。
