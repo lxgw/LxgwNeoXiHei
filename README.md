@@ -11,7 +11,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 本字体尝试在[「IPAex黑体」](https://moji.or.jp/ipafont)和[「霞鹜传承晰黑」](https://github.com/lxgw/LxgwXiHei/tree/legacy)（推倒重来）原有字形的基础上，将其改造成中国大陆规范字形；简化了一些部件的出脚（如「枸」「间」「陶」「岩」等字中「口」「日」「缶」「山」部件的出脚），使字形更加简约。除此之外，重做了希腊字母和西里尔字母，与原字体拉丁字母部分风格基本一致，更适合现代希腊文及西里尔文的排版；新增对越南语拉丁字的显示支持。符号方面，支持易经八卦和六十四卦符号、太玄经八十一卦符号、麻将符号、中国象棋符号、算筹数字、「正」字计数等特殊符号。
 
-「霞鹜新晰黑」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），[点击此处查看对应规则](documentation/uvs.pdf)。
+「霞鹜新晰黑」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号宽度的选择，[点击此处查看对应规则](documentation/uvs.pdf)。
 
 > [!NOTE]
 > 在发布补全 GBK 的版本之后，将不再于 Release 中附带《霞鹜尚智黑》。请移步[《霞鹜尚智黑》repo](https://github.com/lxgw/LxgwFasmartGothic) 了解字体概况及下载字体文件。
