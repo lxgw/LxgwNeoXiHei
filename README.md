@@ -13,9 +13,6 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 
 「霞鹜新晰黑」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 
-> [!NOTE]
-> 在发布补全 GBK 的版本之后，将不再于 Release 中附带《霞鹜尚智黑》。请移步[《霞鹜尚智黑》repo](https://github.com/lxgw/LxgwFasmartGothic) 了解字体概况及下载字体文件。
-
 ### 字汇
 
 目前本字体共收录 2.2 万字，包含 CJK 统一表意文字基本区 20992 字，以及扩展 A～I 区零星汉字。
