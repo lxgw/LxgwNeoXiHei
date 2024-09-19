@@ -11,6 +11,7 @@
 >   - [融合版 / -Fusion](https://github.com/lxgw/LXGWNeoXiZhi-Fusion)
 >   - [屏幕阅读版 / -Screen](https://github.com/lxgw/LXGWNeoXiZhi-Screen)
 >   - [新晰黑体＆新致宋体 / SimXiHei & SimZhiSong](https://github.com/lxgw/SimXiZhi)
+>   - [新晰黑 Code / NeoXiHei Code](https://github.com/lxgw/NeoXiHei-Code)
 >
 > 上述字体统称为「晰致尚铭」字体系列，「晰致尚铭」四个字分别选取自「霞鹜（新）**晰**黑」「霞鹜（新）**致**宋」「霞鹜**尚**智黑」「霞鹜**铭**心宋」字体的名称。本须知内容针对的是对上述字体构成再分发的各类嵌入式应用，如应用程序（iOS、Android、HarmonyOS、Windows、macOS、Linux 等）、硬件设备（电子屏显、电子辞典、打印机、机顶盒、导航仪、SoC 芯片等）、网页、H5 应用、小程序、音像制品嵌入等。
 >
