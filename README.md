@@ -114,7 +114,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
 ### 其他
 - [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止维护
+- [霞鹜臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
