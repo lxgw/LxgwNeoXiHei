@@ -90,7 +90,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
 
 ### 「霞鹜新晰黑＋」字体授权兼容性说明
-「霞鹜新晰黑＋」打底字体 [Droid Sans Fallback](https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts) 采用 [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 授权方式，而主要字体[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。根据授权的兼容性与传染性，以上两款字体均采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。
+「霞鹜新晰黑＋」打底字体 [Droid Sans Fallback](https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts) 采用 [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 授权方式，而主要字体[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。根据授权的兼容性与传染性，「霞鹜新晰黑＋」采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。
 
 以下为 Droid Sans Fallback 字体的版权声明：
 ```
