@@ -108,6 +108,7 @@ You may obtain a copy of the License at
 - [IPAex Gothic](https://moji.or.jp/ipafont) *by Information-technology Promotion Agency, Japan (IPA)*
 - [一点明体 / I.Ming](https://github.com/ichitenfont/I.Ming) *by 一点字坊 / Ichiten Font*
 - ZERO 子、Georgome 等协助补字。
+- Droid Sans Fallback
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
