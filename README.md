@@ -18,6 +18,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 目前本字体共收录 2.2 万字，包含 CJK 统一表意文字基本区 20992 字，以及扩展 A～I 区零星汉字。
 
 包含 [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字，此外根据 [外字初步整理表](https://github.com/lxgw/ext-characters) 按需添加一些表外字。
+
+此外提供「霞鹜新晰黑＋ / LXGW Neo XiHei Plus」，在「霞鹜新晰黑」基础上补全扩展 A 区所有汉字，以使字库达到 GB 18030-2022 实现级别 2 的收字范围。
 <!--
 #### 第一部分（简体为主）
 - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
@@ -72,7 +74,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。另有回归旧式印刷字形的[「霞鹜晰黑」](https://github.com/lxgw/LxgwXiHei)。
 3. 由于本字体的原始开源字体 [IPAexGothic](https://moji.or.jp/ipafont) 只有一个字重，如果以多种主流多字重黑体的标准去制作多字重，而不是简单的机械加粗减细，需要耗费更多的时间和精力；此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
 4. 提供[「霞鹜新晰黑 屏幕阅读版 / LXGW Neo XiHei Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，稍作加粗并调整度量，更适合 PC 及 Android 手机屏幕显示。
-5. 提供[「霞鹜新晰黑 融合 / LXGW Neo XiHei Fusion」](https://github.com/lxgw/LxgwNeoXiZhi-Fusion)，补全基本区和扩 A 区所有汉字，达到 GB 18030-2022 实现等级 2 的收字范围。由于 IPA 系字体与 Droid Sans Fallback 的风格差异，在混排中会存在一定的违和感。
+5. 「霞鹜新晰黑＋」的扩 A 部分采用 Droid Sans Fallback 减细后增补，风格上与「霞鹜新晰黑」原有字形有一定差异，混排可能会有违和感。
 6. 提供[「新晰黑体 / SimXiHei」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「黑体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「黑体」的文档可以直接套换「新晰黑体」而不会出现大面积重新排版的现象。另有适用于编程显示的等宽版[「新晰黑 Code / NeoXiHei Code」](https://github.com/lxgw/NeoXiHei-Code)。
 
 ## 授权信息
@@ -86,6 +88,20 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字体进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。  
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
+
+### 字体授权兼容性说明
+「霞鹜新晰黑＋」打底字体 [Droid Sans Fallback](https://www.maoken.com/freefonts/2428.html) 采用 [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 授权方式，而主要字体[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。根据授权的兼容性与传染性，以上两款字体均采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。
+
+以下为 Droid Sans Fallback 字体的版权声明：
+```
+Copyright (C) 2008 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  
+     http://www.apache.org/licenses/LICENSE-2.0
+```
 
 ## 鸣谢
 - [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) *by Takao Hayashi*
