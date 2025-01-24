@@ -73,8 +73,8 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwNeoXiHei/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwNeoXiHei/issues/5) 反馈，不要另开议题，以便于整理。
 2. 由于新晰黑的总体字形风格为 G 标，故繁体字也遵循 G 标（主要参考 Unicode 码表中的 G 源字形，无 G 源字形的根据相关部件类推出假想的 G 源字形）。另有回归旧式印刷字形的[「霞鹜晰黑」](https://github.com/lxgw/LxgwXiHei)。
 3. 由于本字体的原始开源字体 [IPAexGothic](https://moji.or.jp/ipafont) 只有一个字重，如果以多种主流多字重黑体的标准去制作多字重，而不是简单的机械加粗减细，需要耗费更多的时间和精力；此外 IPAexGothic 的原版字体 [TB Gothic](https://www.typebank.co.jp/fontfamily/tbgothic/) 虽有多个字重，但却为商业字体，需要付费购买，因此没有制作多字重的计划，敬请谅解。
-4. 提供[「霞鹜新晰黑 屏幕阅读版 / LXGW Neo XiHei Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，稍作加粗并调整度量，更适合 PC 及 Android 手机屏幕显示。
-5. 「霞鹜新晰黑＋」的扩 A 部分采用 Droid Sans Fallback 减细后增补，风格上与「霞鹜新晰黑」原有字形有一定差异，混排可能会有违和感。
+4. 「霞鹜新晰黑＋」的扩 A 部分采用 Droid Sans Fallback 减细后增补，风格上与「霞鹜新晰黑」原有字形有一定差异，混排可能会有违和感。
+5. 提供[「霞鹜新晰黑 屏幕阅读版 / LXGW Neo XiHei Screen」](https://github.com/lxgw/LxgwNeoXiZhi-Screen)，稍作加粗并调整度量，更适合 PC 及 Android 手机屏幕显示。
 6. 提供[「新晰黑体 / SimXiHei」](https://github.com/lxgw/SimXiZhi)，兼容 Windows 系统「黑体」度量参数，采用 GBK 字符集，可以让已经使用 Windows 系统「黑体」的文档可以直接套换「新晰黑体」而不会出现大面积重新排版的现象。另有适用于编程显示的等宽版[「新晰黑 Code / NeoXiHei Code」](https://github.com/lxgw/NeoXiHei-Code)。
 
 ## 授权信息
