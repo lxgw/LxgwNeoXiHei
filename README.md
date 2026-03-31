@@ -68,7 +68,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/8999.html) 下载。
 3. 进入 [字加](https://www.zijia.com.cn/6534.html) 获取。
 4. 进入 [永硕网盘](http://lxgw.ysepan.com)、[蓝奏云（密码 gzga）](https://lxgw.lanzoum.com/b0cqrxuba) 下载。为避免一些人误将本**字体**项目视作本字体的 **Magisk 模块**项目，且由于本人的字体模块可能存在兼容性问题而本人无力解决，即日起**不再提供** Magisk 字体模块。如需要 Magisk 字体模块，且本人此前分享的模块使用正常，请移步[模块模板项目](https://github.com/lxgw/advanced-cjk-font-magisk-module-template)下载模板自行制作；若模块模板存在问题，则选用其他作者的字体模块，替换内部字体素材后刷入。
-5. 本项目仓库 [projects]( ./projects/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
+5. 本项目仓库 [projects]( ./projects/) 文件夹中提供 FCP 格式的字体工程文件，便于二次开发字体（其中 `MixGothic-ExtA.fcp` 为 Plus 版增补的扩展 A 区汉字字形，`MixGothic-ExtB.fcp` 曾为 Plus 版加入的原始字体所包含的扩展 B 区字形，现主要提供兼容汉字区字形）。需要 15.0.0.3048 及更高版本的 FontCreator。
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有足够的时间细修，部分字的部件拼接会很生硬，但聊胜于无。如有字形优化、调整建议请在 [Issue #4](https://github.com/lxgw/LxgwNeoXiHei/issues/4) 反馈，如有迫切的加字请求请在 [Issue #5](https://github.com/lxgw/LxgwNeoXiHei/issues/5) 反馈，不要另开议题，以便于整理。
