@@ -110,6 +110,12 @@ You may obtain a copy of the License at
 - ZERO 子、Georgome 等协助补字。
 - [Droid Sans Fallback](https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts) 提供扩展 A 区拼字模板。
 
+<div  align="center">
+<a href="https://www.high-logic.com/font-editor/fontcreator">
+  <img src="https://raw.githubusercontent.com/lxgw/Pengli/main/documentation/FontCreator_Badge_01.png" width = "300" height = "92.39" alt="Made with FontCreator" align=center />
+</a>
+</div>
+
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
