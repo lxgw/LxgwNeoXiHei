@@ -85,7 +85,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
   也可在本字体基础上继续改作衍生，惟衍生字体名称（包括程序名、文件名、字体名）不得包含「IPA」字样，且衍生字体须继承相同授权许可（IPA Font License 1.0 与 SIL OFL 1.1 互不兼容）。
 - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件，不得将字体文件单独售卖。
 - 如果您要将本字体替换回 IPA 原始授权字体，请从 [IPA 字体下载页面](https://moji.or.jp/ipafont/ipafontdownload)获取原始授权字体「IPAexゴシック」。  
-  对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），需要满足 IPA 许可中针对衍生字体再分发的限制条件，[请点击此处](documentation/embedding_instructions.md)了解。
+  对于涉及字体文件再分发的嵌入式应用（如应用程序、硬件设备、网页等嵌入），需要满足 IPA 许可中针对衍生字体再分发的限制条件，[请点击此处](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)了解。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 任何个人、企业、团队等对本字体进行使用、复制、修改、分发等任意用途即视为您已完全阅读、充分理解并同意 IPA Font License 1.0 授权协议。  
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　情报处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
