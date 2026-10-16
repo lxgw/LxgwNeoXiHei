@@ -169,7 +169,12 @@ You may obtain a copy of the License at
 
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwNeoXiHei.svg)](https://starchart.cc/lxgw/LxgwNeoXiHei)
-
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwneoxihei&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwneoxihei&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwneoxihei&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwneoxihei&type=date&legend=top-left" />
+ </picture>
+</a>
