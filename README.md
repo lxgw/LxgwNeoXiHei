@@ -138,7 +138,11 @@ You may obtain a copy of the License at
 - [GB/T 8565.2-1988 信息处理 文本通信用编码字符集 第二部分:图形字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=87A92BDBEA7EBE5843EA16378837F981)
 - [GB 18030-2022 信息技术 中文编码字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3)
 
-## 更多「霞鹜」开源字体
+<h2>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-day.svg#gh-light-mode-only" width = "512" height = "128"/>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-night.svg#gh-dark-mode-only" width = "512" height = "128"/>
+</h2>
+
 ### 「晰致尚铭」系列
 - **霞鹜新晰黑 / LXGW Neo XiHei**
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
