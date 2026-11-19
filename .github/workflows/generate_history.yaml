@@ -6,6 +6,7 @@ on:
   workflow_dispatch:   # 保留手动触发，方便调试
 
 # 并发控制：如果同时发了两个 Release，取消旧的，只跑最新的
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
