@@ -518,20 +518,12 @@
 
 ## [v1.108] - 2023-11-10
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 新增「臲」，以及扩展 A 区补充部分；
 - 调整「~」`U+007E`。
 
 ---
 
 ## [v1.107] - 2023-10-21
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
 
 - 修正「犡」`U+72A1` 的错形，并将修正前的字形移至「爄」`U+7204`。
 - 调整「屩」的字形。
@@ -540,19 +532,11 @@
 
 ## [v1.106] - 2023-10-12
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 调整「了」的宽度。
 
 ---
 
 ## [v1.105] - 2023-09-09
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
 
 - 新增以下汉字：坣敻靐龘𩛃𩞰𪀋（「𪀋」类推简体暂置于 `U+F053A`），并增补基本区补充部分；
 - 新增 Unicode 15.1 新引入的表意文字描述字符（IDC）：⿼⿽⿾⿿㇯。
@@ -561,10 +545,6 @@
 
 ## [v1.104] - 2023-08-14
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 调整希腊字母扩展区的部分字符；
 - 新增以下汉字：汮岉。
 
@@ -572,19 +552,11 @@
 
 ## [v1.103.1] - 2023-08-03
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 调整半破折号「—」`U+2014`。
 
 ---
 
 ## [v1.103] - 2023-08-01
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
 
 - 修复 Ы`U+042B` 与 Ь`U+042C` 颠倒的问题。
 - 调整「凾」字拔脚；
@@ -594,29 +566,17 @@
 
 ## [v1.102.1] - 2023-06-29
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 调整「陝」字的轮廓。
 
 ---
 
 ## [v1.102] - 2023-06-26
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
-
 - 调整以下字形：ʘ㗴䰗侚
 
 ---
 
 ## [v1.101] - 2023-06-12
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」。
 
 - 修复 ︗`U+FE17` 与 ︘`U+FE18` 颠倒的问题。
   - 跟进[「外字初步整理一览表」](https://github.com/lxgw/ext-characters)第 2 次修订。
@@ -627,10 +587,6 @@
 
 ## [v1.100] - 2023-06-09
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 跟进[「外字初步整理一览表」](https://github.com/lxgw/ext-characters)第 2 次修订。
 - 增加原始授权字体（IPAexGothic）所收基本区、扩展 A 区汉字以及兼容汉字区的非兼容汉字，并额外增加千余基本区汉字。[查看详情](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/changelog/20230609.md)
 - 新增扩展注音字母等特殊符号。
@@ -639,19 +595,11 @@
 
 ## [v1.010] - 2023-04-07
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整以下字形：班
 
 ---
 
 ## [v1.009] - 2023-03-18
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 调整以下字形：棻
 
@@ -659,19 +607,11 @@
 
 ## [v1.008] - 2023-03-13
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整以下字形：氕
 
 ---
 
 ## [v1.007] - 2023-02-26
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 调整以下字形：彲酈鸝鄳；
 - 修复以下符号的颠倒问题：⇋⇌
@@ -680,10 +620,6 @@
 
 ## [v1.006] - 2023-02-06
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整以下字形：焱；
 - 调整以下符号：㈣㈥㈧㈷㈼㈾㉀㉃㊃㊅㊇㊓㊗㊛㊜㊞㊢㊩㊪㊬㊮㊰
 
@@ -691,19 +627,11 @@
 
 ## [v1.005] - 2023-01-20
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整以下字形：丫吖煲裹褒
 
 ---
 
 ## [v1.004] - 2023-01-17
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 调整以下字形：壻
 
@@ -711,19 +639,11 @@
 
 ## [v1.003.1] - 2023-01-15
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整声调符号（如 ˊ `U+02CA` ˋ `U+02CB` 等）的字符属性，防止出现重叠。
 
 ---
 
 ## [v1.003] - 2023-01-14
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 调整以下字形：偸兪喩楡鰵鳘
 
@@ -731,19 +651,11 @@
 
 ## [v1.002] - 2023-01-09
 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
-
 - 调整以下字形：觞醫
 
 ---
 
 ## [v1.001] - 2023-01-07
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」，除 GB/T 2312 范围内的字外，包含「外字初步整理一览表」[第一部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)和[第二部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md)所收录的字（即支持简体和繁体）；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 调整以下字形：罨
 - 新增标点符号：‚`U+201A` ‛`U+201B` „`U+201E` ‟`U+201F`
@@ -751,10 +663,6 @@
 ---
 
 ## [v1.0] - 2023-01-04
-
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」，除 GB/T 2312 范围内的字外，包含「外字初步整理一览表」[第一部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)和[第二部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md)所收录的字（即支持简体和繁体）；
-> - **LXGWFasmartGothic.ttf** ：字体名称为「霞鹜尚智黑」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销。
 
 - 英文环境下字体名称更改为 “LXGW Neo XiHei”，以缩短字体名称长度，中文字体名称不变，**请删除旧版再安装新版**；
 - 重做西里尔字母、希腊字母，并增补越南语拉丁文字；补全拉丁扩展-A、拉丁扩展-B、国际音标扩展区（感谢 Georgome 协助）；
@@ -775,11 +683,6 @@
 
 > **注意：** 本版本为 Release-Candidate 候选版本。
 > 
-> **文件说明：**
-> - **LXGWNeoXiHei.ttf** ：字体名称为「霞鹜新晰黑」，除 GB/T 2312 范围内的字外，包含「外字初步整理一览表」[第一部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)和[第二部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary_2.md)所收录的字（即支持简体和繁体）；
-> - **LXGWNeoXiHeiCHS.ttf** ：字体名称为「霞鹜新晰黑 简」，除 GB/T 2312 范围内的字外，仅包含「外字初步整理一览表」[第一部分](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)所收录的字（即不支持繁体），将在正式版发布时撤销；
-> - **LXGWFasmartGothic.ttf / LXGWFasmartGothicCHS.ttf** ：字体名称为「霞鹜尚智黑」或「霞鹜新晰黑 简」，将新晰黑字形按照 [03 Smart Font UI](https://www.maoken.com/freefonts/10369.html) 的样式修改，后续更新中随时撤销（仅含简体的 CHS 版本将在正式发布时撤销）。
-
 - 英文环境下字体名称更改为 “LXGW Neo XiHei“，以缩短字体名称长度，中文字体名称不变，**请删除旧版再安装新版**；
 - 重做西里尔字母、希腊字母，并增补越南语拉丁文字；补全拉丁扩展-A、拉丁扩展-B、国际音标扩展区（感谢 Georgome 协助）；
 - 调整了一部分字形，详情[点此查看](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/modified_glyphs_0900.md)（仅供参考）；后续又调整「关」「复」「研」等原字体 IPAex 黑体中较不协调的字形；
