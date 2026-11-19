@@ -59,7 +59,7 @@ A Simplified Chinese sans-serif font derived from IPAex Gothic.<br>
 - [x] 终极目标：补全 CJK 统一表意文字基本区 20992 字，以及 GBK 所收录的其他字符。
 -->
 ### 更新记录
-历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录 `HISTORY.MD` 不再维护，敬请谅解。
+历史版本的发行记录，请在 [Releases](https://github.com/lxgw/LxgwNeoXiHei/releases) 查看。文字版本的更新记录请在 [HISTORY.md](./HISTORY.md) 查看。
 
 ### 概览
 ![](https://raw.githubusercontent.com/lxgw/LxgwNeoXiHei/main/documentation/images/neoxihei-1.png)  
