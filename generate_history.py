@@ -34,17 +34,33 @@ for rel in releases:
     # 2. 逐行过滤 [!NOTE] / [!WARNING] 等块
     cleaned_lines = []
     in_alert = False
+    in_file_desc = False  # 新增：标记是否在“文件说明”块中
+    
     for line in body.split('\n'):
         stripped = line.strip()
+        
+        # --- 新增：处理“文件说明”引用块 ---
+        # 如果遇到以 > 开头且包含“文件说明”的行，开启过滤
+        if stripped.startswith('>') and "文件说明" in stripped:
+            in_file_desc = True
+            continue
+            
+        if in_file_desc:
+            # 只要还在引用块内（或空行），就一直跳过
+            if stripped.startswith('>') or not stripped:
+                continue
+            else:
+                in_file_desc = False # 遇到正常的正文，关闭过滤状态
+        # ---------------------------------
         
         # 开启警报屏蔽
         if re.match(r'^>\s*\[!(?:NOTE|WARNING|IMPORTANT|TIP|CAUTION)\]', stripped, re.IGNORECASE):
             in_alert = True
             continue
         
-        # 如果处于屏蔽状态
+        # 如果处于警报屏蔽状态
         if in_alert:
-            if stripped.startswith('>'): 
+            if stripped.startswith('>') or not stripped: 
                 continue # 继续过滤掉警告下面的 > 内容（包括 > ⚠️）
             else:
                 in_alert = False # 遇到普通段落，解除屏蔽
@@ -54,7 +70,7 @@ for rel in releases:
             continue
             
         # 强制过滤包含网盘网址的整行
-        if "http://lxgw.ys168.com" in line:
+        if "http://lxgw.ys168.com/" in line:
             continue
             
         # 3. 过滤 Full Changelog 和包含“更新日志”的行
